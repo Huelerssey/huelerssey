@@ -87,14 +87,6 @@ Graduated in Systems Analysis and Development with a postgraduate degree in Data
 />
 <img 
     align="left" 
-    alt="Django" 
-    title="Django"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" 
-/>
-<img 
-    align="left" 
     alt="Streamlit" 
     title="Streamlit"
     width="30px" 
@@ -143,35 +135,11 @@ Graduated in Systems Analysis and Development with a postgraduate degree in Data
 />
 <img 
     align="left" 
-    alt="Mongodb" 
-    title="Mongodb"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Aws" 
     title="Aws"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" 
-/>
-<img 
-    align="left" 
-    alt="Ubuntu" 
-    title="Ubuntu"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 <br/>
 <br/>
