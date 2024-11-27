@@ -1,4 +1,4 @@
-# 🌟 Professional with over 5 years of experience 🌟
+# 🌟 Over 5 years of experience in Python programming 🌟
 
 Graduated in Systems Analysis and Development with a postgraduate degree in Data Science and MBA in Project Management. I transform complex problems into value-driven solutions.
 
