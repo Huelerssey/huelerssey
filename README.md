@@ -10,7 +10,7 @@ Graduated in Systems Analysis and Development with a postgraduate degree in Data
 
 ---
 
-### 🌟 Some of the Languages and Technologies I have been using daily 🌟
+### Some of the Languages and Technologies I have been using daily 
 
           
 <img 
@@ -149,3 +149,10 @@ Graduated in Systems Analysis and Development with a postgraduate degree in Data
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/huelerssey/huelerssey/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/huelerssey/huelerssey/output/github-contribution-grid-snake.svg">
 </picture>
+
+### Connect with me!
+
+[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huelerssey)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:huelerssey@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5584999306130)
+
