@@ -1,6 +1,6 @@
 # 🌟 Over 5 years of experience in Python programming 🌟
 
-Graduated in Systems Analysis and Development with a postgraduate degree in Data Science and MBA in Project Management. I transform complex problems into value-driven solutions.
+Graduated in Systems Analysis and Development with a postgraduate degree in Data Science. I transform complex problems into value-driven solutions.
 
 - In **Machine Learning**, developed models for predicting and classifying vegetal impurities in sugarcane crops, drone image analysis, and motion detection systems.
 
